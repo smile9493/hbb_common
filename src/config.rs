@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["smile.osapp.vip:21116"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["smile.osapp.vip"];
 pub const RS_PUB_KEY: &str = "B80jMPnAdO4JRQuRkXJZy31ern8dgBFyAK+fREU34u4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
